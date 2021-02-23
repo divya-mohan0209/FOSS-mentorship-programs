@@ -10,9 +10,9 @@ I am not affiliated with any of these organizations & am not advertising the pro
 
 ## Contents
 
-- [Technical internships]()
+- [Technical internships](technical-internships/)
 - [Advocacy internships]()
-- [Documentation internships]()
+- [Documentation internships](documentation-internships/)
 - [STEM internships]() 
 - [FAQ]()
 
